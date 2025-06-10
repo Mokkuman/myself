@@ -5,7 +5,7 @@
         "id": 1,
         "title": "Taskdash",
         "info": "Web app where users can create and take up tasks.",
-        "gif": "../assets/images/taskdash_case.gif",
+        "gif": "./taskdash_case.gif",
         "keywords": "php, mysql, bootstrap, js",
         "link": ""
       },
@@ -14,7 +14,7 @@
         "title": "Plank",
         "info": "Web app designed to support exam preparation through two study modes: 'Flashcard' and 'Exam'",
         "keywords": "django, bootstrap, js",
-        "gif": "../assets/images/plank-gif.gif",
+        "gif": "./plank-gif.gif",
         "link": ""
       },
       {
