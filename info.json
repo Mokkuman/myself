@@ -1,0 +1,34 @@
+{
+    "about": [
+      "Hey! I’m Manu — a Computer Science grad from BUAP who’s passionate about web dev, AI, and all things tech.",
+      "I also love art, indie films, and reading.",
+      "Certified in AI by IBM and Google."
+    ]
+    ,
+    "modals":[
+      {
+        "id": 1,
+        "title": "Taskdash",
+        "info": "Web app where users can create and take up tasks.",
+        "gif": "./taskdash_case.gif",
+        "keywords": "php, mysql, bootstrap, js",
+        "link": ""
+      },
+      {
+        "id": 2,
+        "title": "Plank",
+        "info": "Web app designed to support exam preparation through two study modes: 'Flashcard' and 'Exam'",
+        "keywords": "django, bootstrap, js",
+        "gif": "./plank-gif.gif",
+        "link": ""
+      },
+      {
+        "id": 3,
+        "title": "ASCII ART",
+        "info": "Convert a video or image into ascii art",
+        "keywords": "Angular 19, bootstrap, gif.js, TS",
+        "gif": "",
+        "link": "https://mokkuman.github.io/ASCII_ART/"
+      }
+    ]
+}
